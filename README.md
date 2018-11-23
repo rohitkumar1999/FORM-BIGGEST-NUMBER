@@ -24,4 +24,4 @@ Aproach to solve the problem : -
 4.at the ennd of the program the result  will be displayed in form of a string combination. 
 
 CONCEPT USED : 
-in the given program a basic concept that is been used is the conceept of combination of string.
+in the given program a basic concept that is been used is the conceept of combination of string .
