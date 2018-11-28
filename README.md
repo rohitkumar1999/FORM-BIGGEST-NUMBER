@@ -2,7 +2,7 @@
 A java 8 program to make largest number from given numbers
 You are provided an array of numbers. You need to arrange them in a way that yields the largest value.
 Input Format:
-First line contains integer t which is number of test case. For each test case, it contains an integer n which is the size of array A[] and next line contains n space separated integers A[i]  .
+First line contains integer t which is number of test case. For each test case, it contains an integer n which is the size  of array A[] and next line contains n space separated integers A[i]  .
 Constraints:
 1<=t<=100
 1<=m<=100
